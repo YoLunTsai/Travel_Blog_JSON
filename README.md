@@ -1,1 +1,1 @@
-# Sights.json for Travel Blog
+### Sights.json for Travel Blog.
